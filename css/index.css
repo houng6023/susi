@@ -39,11 +39,16 @@ height: 600px; position: relative;}
 top: 40%; left: 50%;
 transform: translate(-50%,-50%);
 text-align: center;
-color: #333;}
+color: #333;
+margin-top: 66px;}
 .header_text >h1 p {font-size: 48px;
     font-family: '나눔명조';
     padding: 20px 0px;}
 .header_text >p {font-size: 22.4px;}
+
+
+#ourgllery,#aboutus,#chefmeun,#roadmap,#reservation
+{margin-top: 100px;}
 
 #section {background: url(../images/bg.jpg) repeat;
 position: relative;}
